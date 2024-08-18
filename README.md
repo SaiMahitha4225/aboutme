@@ -1,1 +1,2 @@
-# aboutme
+# About Me
+I am N Sai Mahitha, a final year BTech student in Computer Science and Engineering at KL University, Vijayawada, with a strong passion for web development. I am proficient in Java and C, and I excel at creating visually appealing and user-friendly websites. Also known languages are Python ans Java Script. I also have a solid background in problem-solving and enjoy applying creative solutions to design challenges.
